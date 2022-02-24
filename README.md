@@ -1,1 +1,2 @@
-# ai4backenddiary
+# mogoDB, mongoose
+# app_diary
